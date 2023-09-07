@@ -1,4 +1,4 @@
-2023-09-07 16:13:03,758 - INFO - Scraping URL: https://www.cessionpme.com/index.php?action=affichage&annonce=offre&moteur=OUI&type_moteur=imo&nature_imo=V&region_imo=2&commune_imo=0&multiple_lieu_imo&trap_imo&ou_imo&surfmin&et&immo_tri=prix&immo_tri=prix&surfmax&entre&entre_dab&et_dab&cwkg_rent_max&cwkg_places_min&motcle_imo&departement_imo=93&secteur_activite_imo=Locaux, Entrepôts, Terrains&rubrique_imo=
+2023-09-07 16:13:03,758 - INFO - Scraping URL: https://www.cessionpme.com/index.php?action=affichage&annonce=offre&moteur=OUI&type_moteur=imo&nature_imo=V&region_imo=2&commune_imo=0&multiple_lieu_imo&trap_imo&ou_imo&surfmin&et&immo_tri=prix&immo_tri=prix&surfmax&entre&entre_dab&et_dab&cwkg_rent_max&cwkg_places_min&motcle_imo&departement_imo=93&secteur_activite_imo=Locaux, Entrepï¿½ts, Terrains&rubrique_imo=
 2023-09-07 16:13:03,758 - INFO - Scraping page 1
 2023-09-07 16:13:04,752 - INFO - Found 1 advertisements on page 1
 2023-09-07 16:13:04,753 - INFO - Found 2 advertisements on page 1
@@ -104,7 +104,7 @@
 2023-09-07 16:13:09,214 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-163m2-boucau-64340,2194130,A,offre.html
 2023-09-07 16:13:09,214 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-1633m2-boucau-64340,2194128,A,offre.html
 2023-09-07 16:13:09,214 - INFO - Data inserted into the database successfully
-2023-09-07 16:13:09,214 - INFO - Scraping URL: https://www.cessionpme.com/index.php?action=affichage&annonce=offre&moteur=OUI&type_moteur=imo&nature_imo=V&region_imo=2&commune_imo=0&multiple_lieu_imo&trap_imo&ou_imo&surfmin&et&immo_tri=prix&immo_tri=prix&surfmax&entre&entre_dab&et_dab&cwkg_rent_max&cwkg_places_min&motcle_imo&departement_imo=87&secteur_activite_imo=Locaux, Entrepôts, Terrains&rubrique_imo=
+2023-09-07 16:13:09,214 - INFO - Scraping URL: https://www.cessionpme.com/index.php?action=affichage&annonce=offre&moteur=OUI&type_moteur=imo&nature_imo=V&region_imo=2&commune_imo=0&multiple_lieu_imo&trap_imo&ou_imo&surfmin&et&immo_tri=prix&immo_tri=prix&surfmax&entre&entre_dab&et_dab&cwkg_rent_max&cwkg_places_min&motcle_imo&departement_imo=87&secteur_activite_imo=Locaux, Entrepï¿½ts, Terrains&rubrique_imo=
 2023-09-07 16:13:09,214 - INFO - Scraping page 1
 2023-09-07 16:13:10,208 - INFO - Found 1 advertisements on page 1
 2023-09-07 16:13:10,209 - INFO - Found 2 advertisements on page 1
@@ -214,3 +214,219 @@
 2023-09-07 16:13:14,136 - INFO - Data inserted into the database successfully
 2023-09-07 16:13:14,136 - INFO - Script completed successfully.
 2023-09-07 16:13:14,136 - INFO - Scraped data saved to JSON files.
+2023-09-07 21:01:38,604 - INFO - Scraping URL: https://www.cessionpme.com/index.php?action=affichage&annonce=offre&moteur=OUI&type_moteur=imo&nature_imo=V&region_imo=2&commune_imo=0&multiple_lieu_imo&trap_imo&ou_imo&surfmin&et&immo_tri=prix&immo_tri=prix&surfmax&entre&entre_dab&et_dab&cwkg_rent_max&cwkg_places_min&motcle_imo&departement_imo=93&secteur_activite_imo=Locaux, Entrepï¿½ts, Terrains&rubrique_imo=
+2023-09-07 21:01:38,604 - INFO - Scraping page 1
+2023-09-07 21:01:40,323 - INFO - Found 1 advertisements on page 1
+2023-09-07 21:01:40,323 - INFO - Found 2 advertisements on page 1
+2023-09-07 21:01:40,324 - INFO - Found 3 advertisements on page 1
+2023-09-07 21:01:40,324 - INFO - Found 4 advertisements on page 1
+2023-09-07 21:01:40,324 - INFO - Found 5 advertisements on page 1
+2023-09-07 21:01:40,325 - INFO - Found 6 advertisements on page 1
+2023-09-07 21:01:40,325 - INFO - Found 7 advertisements on page 1
+2023-09-07 21:01:40,325 - INFO - Found 8 advertisements on page 1
+2023-09-07 21:01:40,325 - INFO - Found 9 advertisements on page 1
+2023-09-07 21:01:40,326 - INFO - Found 10 advertisements on page 1
+2023-09-07 21:01:40,326 - INFO - Found 11 advertisements on page 1
+2023-09-07 21:01:40,326 - INFO - Found 12 advertisements on page 1
+2023-09-07 21:01:40,326 - INFO - Scraping page 2
+2023-09-07 21:01:41,396 - INFO - Found 13 advertisements on page 2
+2023-09-07 21:01:41,396 - INFO - Found 14 advertisements on page 2
+2023-09-07 21:01:41,396 - INFO - Found 15 advertisements on page 2
+2023-09-07 21:01:41,397 - INFO - Found 16 advertisements on page 2
+2023-09-07 21:01:41,397 - INFO - Found 17 advertisements on page 2
+2023-09-07 21:01:41,397 - INFO - Found 18 advertisements on page 2
+2023-09-07 21:01:41,398 - INFO - Found 19 advertisements on page 2
+2023-09-07 21:01:41,398 - INFO - Found 20 advertisements on page 2
+2023-09-07 21:01:41,398 - INFO - Found 21 advertisements on page 2
+2023-09-07 21:01:41,398 - INFO - Found 22 advertisements on page 2
+2023-09-07 21:01:41,399 - INFO - Found 23 advertisements on page 2
+2023-09-07 21:01:41,399 - INFO - Data for department 93 saved to scrap/datas/resultats_64.json
+2023-09-07 21:01:41,400 - INFO - Data for department 93 saved to scrap/datas/resultats_64.json
+2023-09-07 21:01:41,413 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-calme-et-lumineux-95m2-anglet-64600,2220827,A,offre.html
+2023-09-07 21:01:41,414 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-local-professionnel-biarritz-64200,2214134,A,offre.html
+2023-09-07 21:01:41,414 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-local-commercial-pau-64000,2218872,A,offre.html
+2023-09-07 21:01:41,414 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-commerciaux-bonne-rentabilite-monein-64360,2218826,A,offre.html
+2023-09-07 21:01:41,414 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-pau-64000,2218824,A,offre.html
+2023-09-07 21:01:41,415 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-centre-medical-pau-64000,2218345,A,offre.html
+2023-09-07 21:01:41,415 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-locaux-pour-activite-medicale-pau-64000,2218092,A,offre.html
+2023-09-07 21:01:41,415 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-plateau-pau-64000,2218091,A,offre.html
+2023-09-07 21:01:41,415 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-boutique-oloron-sainte-marie-64400,2217873,A,offre.html
+2023-09-07 21:01:41,415 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-194m2-pau-64000,2217650,A,offre.html
+2023-09-07 21:01:41,416 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-batiment-activites-agglomeration-de-pau,2217416,A,offre.html
+2023-09-07 21:01:41,416 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-plateau-proche-du-centre-ville-de-pau,2217165,A,offre.html
+2023-09-07 21:01:41,416 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-commerciaux-30m2-bayonne-centre-64100,2216880,A,offre.html
+2023-09-07 21:01:41,416 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-opportunite-sur-axe-passant-lons-64140,2216679,A,offre.html
+2023-09-07 21:01:41,416 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-ensemble-immobilier-lons-64140,2216678,A,offre.html
+2023-09-07 21:01:41,417 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-batiment-commercial-lons-64140,2216676,A,offre.html
+2023-09-07 21:01:41,417 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-bureau-pau-64000,2216672,A,offre.html
+2023-09-07 21:01:41,417 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-plateaux-de-bureaux-pau-nord-64000,2216671,A,offre.html
+2023-09-07 21:01:41,417 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-ensemble-de-bureaux-et-locaux-activite-saint-jean-de-luz-64500,2216648,A,offre.html
+2023-09-07 21:01:41,417 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-opportunite-investisseur-proche-clemenceau-pau-64000,2216670,A,offre.html
+2023-09-07 21:01:41,418 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-local-commercial-1153m2-hasparren-64240,2215807,A,offre.html
+2023-09-07 21:01:41,418 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-local-professionnel-prof-liberale-biarritz-64200,2215712,A,offre.html
+2023-09-07 21:01:41,418 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-restaurant-bar-logement-bayonne-64100,2215644,A,offre.html
+2023-09-07 21:01:41,418 - INFO - Data inserted into the database successfully
+2023-09-07 21:01:41,418 - INFO - Scraping URL: https://www.cessionpme.com/index.php?action=affichage&annonce=offre&moteur=OUI&type_moteur=imo&nature_imo=V&region_imo=2&commune_imo=0&multiple_lieu_imo&trap_imo&ou_imo&surfmin&et&immo_tri=prix&immo_tri=prix&surfmax&entre&entre_dab&et_dab&cwkg_rent_max&cwkg_places_min&motcle_imo&departement_imo=93&secteur_activite_imo=Bureaux, Coworking&rubrique_imo=52
+2023-09-07 21:01:41,418 - INFO - Scraping page 1
+2023-09-07 21:01:43,247 - INFO - Found 1 advertisements on page 1
+2023-09-07 21:01:43,248 - INFO - Found 2 advertisements on page 1
+2023-09-07 21:01:43,248 - INFO - Found 3 advertisements on page 1
+2023-09-07 21:01:43,248 - INFO - Found 4 advertisements on page 1
+2023-09-07 21:01:43,249 - INFO - Found 5 advertisements on page 1
+2023-09-07 21:01:43,249 - INFO - Found 6 advertisements on page 1
+2023-09-07 21:01:43,249 - INFO - Found 7 advertisements on page 1
+2023-09-07 21:01:43,250 - INFO - Found 8 advertisements on page 1
+2023-09-07 21:01:43,250 - INFO - Found 9 advertisements on page 1
+2023-09-07 21:01:43,250 - INFO - Found 10 advertisements on page 1
+2023-09-07 21:01:43,250 - INFO - Found 11 advertisements on page 1
+2023-09-07 21:01:43,251 - INFO - Found 12 advertisements on page 1
+2023-09-07 21:01:43,251 - INFO - Scraping page 2
+2023-09-07 21:01:45,333 - INFO - Found 13 advertisements on page 2
+2023-09-07 21:01:45,334 - INFO - Found 14 advertisements on page 2
+2023-09-07 21:01:45,334 - INFO - Found 15 advertisements on page 2
+2023-09-07 21:01:45,334 - INFO - Found 16 advertisements on page 2
+2023-09-07 21:01:45,335 - INFO - Found 17 advertisements on page 2
+2023-09-07 21:01:45,335 - INFO - Found 18 advertisements on page 2
+2023-09-07 21:01:45,335 - INFO - Found 19 advertisements on page 2
+2023-09-07 21:01:45,336 - INFO - Found 20 advertisements on page 2
+2023-09-07 21:01:45,336 - INFO - Found 21 advertisements on page 2
+2023-09-07 21:01:45,336 - INFO - Found 22 advertisements on page 2
+2023-09-07 21:01:45,337 - INFO - Found 23 advertisements on page 2
+2023-09-07 21:01:45,337 - INFO - Found 24 advertisements on page 2
+2023-09-07 21:01:45,337 - INFO - Data for department 93 saved to scrap/datas/resultats_64.json
+2023-09-07 21:01:45,339 - INFO - Data for department 93 saved to scrap/datas/resultats_64.json
+2023-09-07 21:01:45,340 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-calme-et-lumineux-95m2-anglet-64600,2220827,A,offre.html
+2023-09-07 21:01:45,340 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-locaux-pour-activite-medicale-pau-64000,2218092,A,offre.html
+2023-09-07 21:01:45,341 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-plateau-pau-64000,2218091,A,offre.html
+2023-09-07 21:01:45,341 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-plateau-proche-du-centre-ville-de-pau,2217165,A,offre.html
+2023-09-07 21:01:45,341 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-bureau-pau-64000,2216672,A,offre.html
+2023-09-07 21:01:45,341 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-plateaux-de-bureaux-pau-nord-64000,2216671,A,offre.html
+2023-09-07 21:01:45,342 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-pau-64000,2214340,A,offre.html
+2023-09-07 21:01:45,342 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-pau-64000,2212186,A,offre.html
+2023-09-07 21:01:45,342 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-proche-de-tous-les-transports-serres-castet-64121,2212185,A,offre.html
+2023-09-07 21:01:45,342 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-pau-64000,2212184,A,offre.html
+2023-09-07 21:01:45,343 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-de-68-m2-lumineux-serres-castet-64121,2212183,A,offre.html
+2023-09-07 21:01:45,343 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-serres-castet-64121,2212182,A,offre.html
+2023-09-07 21:01:45,343 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-anglet-bureaux-ref-7049fd-64600,2211072,A,offre.html
+2023-09-07 21:01:45,343 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-en-zone-activite-saint-jean-de-luz-64500,2208110,A,offre.html
+2023-09-07 21:01:45,344 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-biarritz-bureau-40m2-64200,2200560,A,offre.html
+2023-09-07 21:01:45,344 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-pau-bureaux-2600m2-64000,2197307,A,offre.html
+2023-09-07 21:01:45,344 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-programme-pole-medical-2995m2-boucau-64340,2194136,A,offre.html
+2023-09-07 21:01:45,344 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-294m2-rdc-boucau-64340,2194135,A,offre.html
+2023-09-07 21:01:45,345 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-266m2-de-boucau-64340,2194134,A,offre.html
+2023-09-07 21:01:45,345 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-2512m2-boucau-64340,2194133,A,offre.html
+2023-09-07 21:01:45,345 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-programme-pole-medical-225m2-boucau-64340,2194132,A,offre.html
+2023-09-07 21:01:45,345 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-programme-pole-medical-225m2-boucau-64340,2194131,A,offre.html
+2023-09-07 21:01:45,346 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-163m2-boucau-64340,2194130,A,offre.html
+2023-09-07 21:01:45,346 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-1633m2-boucau-64340,2194128,A,offre.html
+2023-09-07 21:01:45,346 - INFO - Data inserted into the database successfully
+2023-09-07 21:01:45,346 - INFO - Scraping URL: https://www.cessionpme.com/index.php?action=affichage&annonce=offre&moteur=OUI&type_moteur=imo&nature_imo=V&region_imo=2&commune_imo=0&multiple_lieu_imo&trap_imo&ou_imo&surfmin&et&immo_tri=prix&immo_tri=prix&surfmax&entre&entre_dab&et_dab&cwkg_rent_max&cwkg_places_min&motcle_imo&departement_imo=87&secteur_activite_imo=Locaux, Entrepï¿½ts, Terrains&rubrique_imo=
+2023-09-07 21:01:45,346 - INFO - Scraping page 1
+2023-09-07 21:01:47,756 - INFO - Found 1 advertisements on page 1
+2023-09-07 21:01:47,756 - INFO - Found 2 advertisements on page 1
+2023-09-07 21:01:47,756 - INFO - Found 3 advertisements on page 1
+2023-09-07 21:01:47,757 - INFO - Found 4 advertisements on page 1
+2023-09-07 21:01:47,757 - INFO - Found 5 advertisements on page 1
+2023-09-07 21:01:47,757 - INFO - Found 6 advertisements on page 1
+2023-09-07 21:01:47,757 - INFO - Found 7 advertisements on page 1
+2023-09-07 21:01:47,758 - INFO - Found 8 advertisements on page 1
+2023-09-07 21:01:47,758 - INFO - Found 9 advertisements on page 1
+2023-09-07 21:01:47,758 - INFO - Found 10 advertisements on page 1
+2023-09-07 21:01:47,759 - INFO - Found 11 advertisements on page 1
+2023-09-07 21:01:47,759 - INFO - Found 12 advertisements on page 1
+2023-09-07 21:01:47,759 - INFO - Scraping page 2
+2023-09-07 21:01:49,227 - INFO - Found 13 advertisements on page 2
+2023-09-07 21:01:49,227 - INFO - Found 14 advertisements on page 2
+2023-09-07 21:01:49,228 - INFO - Found 15 advertisements on page 2
+2023-09-07 21:01:49,228 - INFO - Found 16 advertisements on page 2
+2023-09-07 21:01:49,228 - INFO - Found 17 advertisements on page 2
+2023-09-07 21:01:49,229 - INFO - Found 18 advertisements on page 2
+2023-09-07 21:01:49,229 - INFO - Found 19 advertisements on page 2
+2023-09-07 21:01:49,229 - INFO - Found 20 advertisements on page 2
+2023-09-07 21:01:49,230 - INFO - Found 21 advertisements on page 2
+2023-09-07 21:01:49,230 - INFO - Found 22 advertisements on page 2
+2023-09-07 21:01:49,230 - INFO - Found 23 advertisements on page 2
+2023-09-07 21:01:49,230 - INFO - Found 24 advertisements on page 2
+2023-09-07 21:01:49,231 - INFO - Data for department 87 saved to scrap/datas/resultats_33.json
+2023-09-07 21:01:49,232 - INFO - Data for department 87 saved to scrap/datas/resultats_33.json
+2023-09-07 21:01:49,233 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-bordeaux-local-commercial-trois-conils,2220776,A,offre.html
+2023-09-07 21:01:49,233 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-immeubles-de-rapport-proche-victoire-bordeaux,2220665,A,offre.html
+2023-09-07 21:01:49,233 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-local-commercial-bureau-gujan-mestras-33470,2220571,A,offre.html
+2023-09-07 21:01:49,233 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-bordeaux-murs-commerciaux-libres-480m2,2177919,A,offre.html
+2023-09-07 21:01:49,234 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-local-commercial-200m2-bordeaux-33300,2220260,A,offre.html
+2023-09-07 21:01:49,234 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-la-teste-de-buch-33260,2220210,A,offre.html
+2023-09-07 21:01:49,234 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-local-activite-vendre-artigues-pres-bordeaux-gironde-33,2220201,A,offre.html
+2023-09-07 21:01:49,234 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-artigues-pres-bordeaux-gironde-33,2220200,A,offre.html
+2023-09-07 21:01:49,234 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-vendre-artigues-pres-bordeaux-gironde-33,2220199,A,offre.html
+2023-09-07 21:01:49,235 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-local-activite-artigues-pres-bordeaux-33,2220196,A,offre.html
+2023-09-07 21:01:49,235 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-artigues-pres-bordeaux-33,2220195,A,offre.html
+2023-09-07 21:01:49,235 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-artigues-pres-bordeaux-33,2220194,A,offre.html
+2023-09-07 21:01:49,235 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-artigues-pres-bordeaux-gironde-33,2220192,A,offre.html
+2023-09-07 21:01:49,235 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-vendre-artigues-pres-bordeaux-gironde-33,2220191,A,offre.html
+2023-09-07 21:01:49,236 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-local-activite-vendre-artigues-pres-bordeaux-gironde-33,2220190,A,offre.html
+2023-09-07 21:01:49,236 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-local-commercial-vendre-bordeaux,2220189,A,offre.html
+2023-09-07 21:01:49,236 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-murs-commerciaux-bassin-darcachon-ares-33740-centre-ville,2220036,A,offre.html
+2023-09-07 21:01:49,236 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-talence-local-commercial-200m2-33400,2219972,A,offre.html
+2023-09-07 21:01:49,236 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-de-local-occupe-bordeaux,2219739,A,offre.html
+2023-09-07 21:01:49,237 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-pessac-local-commercial-52m2-33600,2219468,A,offre.html
+2023-09-07 21:01:49,237 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-local-activite-521m2-salleboeuf-33370,2219231,A,offre.html
+2023-09-07 21:01:49,237 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-local-activite-387m2-salleboeuf-33370,2219230,A,offre.html
+2023-09-07 21:01:49,237 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-local-activite-362m2-salleboeuf-33370,2219229,A,offre.html
+2023-09-07 21:01:49,237 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-local-activite-521m2-salleboeuf-33370,2219228,A,offre.html
+2023-09-07 21:01:49,237 - INFO - Data inserted into the database successfully
+2023-09-07 21:01:49,238 - INFO - Scraping URL: https://www.cessionpme.com/index.php?action=affichage&annonce=offre&moteur=OUI&type_moteur=imo&nature_imo=V&region_imo=2&commune_imo=0&multiple_lieu_imo&trap_imo&ou_imo&surfmin&et&immo_tri=prix&immo_tri=prix&surfmax&entre&entre_dab&et_dab&cwkg_rent_max&cwkg_places_min&motcle_imo&departement_imo=87&secteur_activite_imo=Bureaux, Coworking&rubrique_imo=52
+2023-09-07 21:01:49,238 - INFO - Scraping page 1
+2023-09-07 21:01:50,750 - INFO - Found 1 advertisements on page 1
+2023-09-07 21:01:50,750 - INFO - Found 2 advertisements on page 1
+2023-09-07 21:01:50,750 - INFO - Found 3 advertisements on page 1
+2023-09-07 21:01:50,751 - INFO - Found 4 advertisements on page 1
+2023-09-07 21:01:50,751 - INFO - Found 5 advertisements on page 1
+2023-09-07 21:01:50,751 - INFO - Found 6 advertisements on page 1
+2023-09-07 21:01:50,752 - INFO - Found 7 advertisements on page 1
+2023-09-07 21:01:50,752 - INFO - Found 8 advertisements on page 1
+2023-09-07 21:01:50,753 - INFO - Found 9 advertisements on page 1
+2023-09-07 21:01:50,753 - INFO - Found 10 advertisements on page 1
+2023-09-07 21:01:50,753 - INFO - Found 11 advertisements on page 1
+2023-09-07 21:01:50,754 - INFO - Found 12 advertisements on page 1
+2023-09-07 21:01:50,754 - INFO - Scraping page 2
+2023-09-07 21:01:52,189 - INFO - Found 13 advertisements on page 2
+2023-09-07 21:01:52,189 - INFO - Found 14 advertisements on page 2
+2023-09-07 21:01:52,190 - INFO - Found 15 advertisements on page 2
+2023-09-07 21:01:52,190 - INFO - Found 16 advertisements on page 2
+2023-09-07 21:01:52,191 - INFO - Found 17 advertisements on page 2
+2023-09-07 21:01:52,191 - INFO - Found 18 advertisements on page 2
+2023-09-07 21:01:52,191 - INFO - Found 19 advertisements on page 2
+2023-09-07 21:01:52,192 - INFO - Found 20 advertisements on page 2
+2023-09-07 21:01:52,192 - INFO - Found 21 advertisements on page 2
+2023-09-07 21:01:52,193 - INFO - Found 22 advertisements on page 2
+2023-09-07 21:01:52,193 - INFO - Found 23 advertisements on page 2
+2023-09-07 21:01:52,193 - INFO - Found 24 advertisements on page 2
+2023-09-07 21:01:52,194 - INFO - Data for department 87 saved to scrap/datas/resultats_33.json
+2023-09-07 21:01:52,196 - INFO - Data for department 87 saved to scrap/datas/resultats_33.json
+2023-09-07 21:01:52,196 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-bordeaux,2219090,A,offre.html
+2023-09-07 21:01:52,197 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-bruges-33520,2218743,A,offre.html
+2023-09-07 21:01:52,197 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-tresses-33370,2218589,A,offre.html
+2023-09-07 21:01:52,198 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-boulevards-bordeaux-33000,2218132,A,offre.html
+2023-09-07 21:01:52,198 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-vendre-carbon-blanc-33560,2217705,A,offre.html
+2023-09-07 21:01:52,198 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-carbon-blanc-33560,2217704,A,offre.html
+2023-09-07 21:01:52,198 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-vendre-carbon-blanc-33560,2217703,A,offre.html
+2023-09-07 21:01:52,198 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-vendre-carbon-blanc-33560,2217702,A,offre.html
+2023-09-07 21:01:52,199 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-carbon-blanc-33560,2217698,A,offre.html
+2023-09-07 21:01:52,199 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-carbon-blanc-33560,2217697,A,offre.html
+2023-09-07 21:01:52,199 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-carbon-blanc-33560,2217696,A,offre.html
+2023-09-07 21:01:52,199 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-carbon-blanc-33560,2217695,A,offre.html
+2023-09-07 21:01:52,199 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-carbon-blanc-33560,2217694,A,offre.html
+2023-09-07 21:01:52,200 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-carbon-blanc-33560,2217693,A,offre.html
+2023-09-07 21:01:52,200 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-carbon-blanc-33560,2217692,A,offre.html
+2023-09-07 21:01:52,200 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-carbon-blanc-33560,2217691,A,offre.html
+2023-09-07 21:01:52,200 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-professionnels-64m2-bordeaux-gambetta,2215926,A,offre.html
+2023-09-07 21:01:52,200 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-62m2-bordeaux-proche-gambetta,2215923,A,offre.html
+2023-09-07 21:01:52,201 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-audenge-33980,2211800,A,offre.html
+2023-09-07 21:01:52,201 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-vendre-audenge-33980,2211798,A,offre.html
+2023-09-07 21:01:52,201 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-144m2-tresses-33370,2211518,A,offre.html
+2023-09-07 21:01:52,201 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-148m2-tresses-33370,2211516,A,offre.html
+2023-09-07 21:01:52,201 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-121m2-tresses-33370,2211515,A,offre.html
+2023-09-07 21:01:52,201 - INFO - Updating existing record for https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-86m2-audenge-33980,2211259,A,offre.html
+2023-09-07 21:01:52,202 - INFO - Data inserted into the database successfully
+2023-09-07 21:01:52,202 - INFO - Script completed successfully.
+2023-09-07 21:01:52,202 - INFO - Scraped data saved to JSON files.
