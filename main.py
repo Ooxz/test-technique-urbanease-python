@@ -19,18 +19,6 @@ if not os.path.exists(log_dir):
 logging.basicConfig(filename=log_file_path, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Define the database connection information
-# code I entered to create my table on pgadmin4 in table => qsl tool
-#
-# CREATE TABLE adverts (
-# id SERIAL PRIMARY KEY,
-# advert_title VARCHAR(255),
-# advert_price VARCHAR(255),
-# advert_surface VARCHAR(255),
-# advert_url VARCHAR(255) UNIQUE (unique to make sure no duplicate in URL and so no duplicate advert)
-#
-# to check if it works in pgadmin4 go in the table, 
-# here adverts => query tool and type SELECT * FROM adverts; then run it
-
 conn = psycopg2.connect(
     host=config['db_host'],
     database=config['db_name'],

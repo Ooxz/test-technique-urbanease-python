@@ -87,7 +87,7 @@ You can configure the following options in the `conf.py` file:
       advert_surface VARCHAR(255),
       advert_url VARCHAR(255) UNIQUE
     );
-6.  to check if it works in pgadmin4 go in the table, here adverts => `query tool` and type the following then run it(f5):
+6.  to check if it works in pgadmin4 go in the table, here adverts => `query tool` and type the following then run it (f5):
     ```sql
     SELECT * FROM adverts;
 

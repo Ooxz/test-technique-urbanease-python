@@ -6,7 +6,6 @@ config = {
     'db_name': 'advertsdb',
     'db_user': 'postgres',
     'db_password': 'Oox123456',
-    # Add other configuration options here...
 }
 
 
