@@ -98,8 +98,8 @@ def generate_urls(base_url, output_folder, departments, categories, rubrique_imo
                 department_data[category] = scraped_data
 
                 # Save the department data in the JSON file with the appropriate name
-                with open(department_output_file, 'w') as f:
-                    json.dump(department_data, f, indent=4)
+                with open(department_output_file, 'w', encoding='utf-8') as f:
+                    json.dump(department_data, f, indent=4, ensure_ascii=False)
 
                 # Log a message indicating that data for the department has been saved
                 logging.info("Data for department %s saved to %s", department, department_output_file)
