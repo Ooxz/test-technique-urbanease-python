@@ -1,294 +1,366 @@
 {
     "Locaux, Entrepôts, Terrains": [
         {
+            "Advert Title": "Vendimmeubleàrénover130m²àLibourne",
+            "Advert price": "285 000€",
+            "Advert surface": "144 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-libourne-immeuble-renover-130m2-33500,2224614,A,offre.html",
+            "City": null,
+            "Postal Code": null
+        },
+        {
+            "Advert Title": "Vendimmeubleàrénover110m²SteFoylaGrande",
+            "Advert price": "49 000€",
+            "Advert surface": "110 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-immeuble-renover-110m2-sainte-foy-la-grande-33220,2224612,A,offre.html",
+            "City": "Sainte Foy la Grande",
+            "Postal Code": "33220"
+        },
+        {
+            "Advert Title": "Vendlocalcommercial108m²Mérignachypercentre",
+            "Advert price": "100 800€",
+            "Advert surface": "108 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-commercial-108m2-merignac-hyper-centre,2224568,A,offre.html",
+            "City": null,
+            "Postal Code": null
+        },
+        {
+            "Advert Title": "Localcommercial100m²àvendreàLibournecentre",
+            "Advert price": "120 000€",
+            "Advert surface": "100 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-commercial-100m2-libourne-33500,2224556,A,offre.html",
+            "City": "Libourne",
+            "Postal Code": "33500"
+        },
+        {
+            "Advert Title": "Ventelocal155m²PMRàBordeauxBassinsàFlot",
+            "Advert price": "369 985€",
+            "Advert surface": "155 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-local-commercial-bordeaux-33300,2224263,A,offre.html",
+            "City": "Bordeaux",
+            "Postal Code": "33300"
+        },
+        {
+            "Advert Title": "Local60m²àvendrebonnevisibilitéàLibourne",
+            "Advert price": "120 000€",
+            "Advert surface": "100 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-commercial-centre-ville-libourne-33500,2224167,A,offre.html",
+            "City": "Libourne",
+            "Postal Code": "33500"
+        },
+        {
+            "Advert Title": "LOCALcommercialàVENDRE",
+            "Advert price": "120 000€",
+            "Advert surface": "100 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-commercial-vendre-libourne-33500,2224165,A,offre.html",
+            "City": "Libourne",
+            "Postal Code": "33500"
+        },
+        {
+            "Advert Title": "Bureauxde97m²àvendreàBordeauxPeyBerland",
+            "Advert price": "535 000€",
+            "Advert surface": "97 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-97m2-pey-berland-bordeaux,2223786,A,offre.html",
+            "City": null,
+            "Postal Code": null
+        },
+        {
+            "Advert Title": "Ventebureaux283m²R+1àBordeauxPalaisCongrés",
+            "Advert price": "623 920€",
+            "Advert surface": "283 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-283m2-bordeaux-33300,2223699,A,offre.html",
+            "City": "Bordeaux",
+            "Postal Code": "33300"
+        },
+        {
+            "Advert Title": "Vendentrepôtcommercial320m²BordeauxChartrons",
+            "Advert price": "890 000€",
+            "Advert surface": "320 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-entrepot-commercial-320m2-bordeaux,2223276,A,offre.html",
+            "City": null,
+            "Postal Code": null
+        },
+        {
+            "Advert Title": "Ventemurscommerciauxlibres230m²àMonségur",
+            "Advert price": "200 000€",
+            "Advert surface": "230 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-murs-commerciaux-libres-monsegur-gironde-33,2223111,A,offre.html",
+            "City": null,
+            "Postal Code": "33"
+        },
+        {
+            "Advert Title": "Ventemurscommerciauxde170m²àBordeauxV.Hugo",
+            "Advert price": "490 000€",
+            "Advert surface": "170 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-murs-commerciaux-170m2-bordeaux,2222711,A,offre.html",
+            "City": null,
+            "Postal Code": null
+        },
+        {
+            "Advert Title": "BureauxàvendreàBrugesAvenuedeTerrefort",
+            "Advert price": "1 194 522€",
+            "Advert surface": "406 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-bruges-33520,2222235,A,offre.html",
+            "City": "Bruges",
+            "Postal Code": "33520"
+        },
+        {
+            "Advert Title": "TerrainàvendreàAmbaresetLagraveA10",
+            "Advert price": "543 838€",
+            "Advert surface": "2 182 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-terrain-ambares-et-lagrave-33,2222227,A,offre.html",
+            "City": "Ambares et Lagrave",
+            "Postal Code": "33"
+        },
+        {
+            "Advert Title": "Bureauxde120m²àvendreàBordeauxSaintPaul",
+            "Advert price": "703 177€",
+            "Advert surface": "120 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-bordeaux,2222225,A,offre.html",
+            "City": null,
+            "Postal Code": null
+        },
+        {
+            "Advert Title": "Avendremurscommerciauxloués280m²àBordeaux",
+            "Advert price": "600 000€",
+            "Advert surface": "280 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-loues-280m2-bordeaux,2221854,A,offre.html",
+            "City": null,
+            "Postal Code": null
+        },
+        {
+            "Advert Title": "Localactivités-bureaux2622m²àvendreàPessac",
+            "Advert price": "7 194 209€",
+            "Advert surface": "2 622 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-pessac-mixte-activites-bureaux-2622m2-33600,2221620,A,offre.html",
+            "City": null,
+            "Postal Code": null
+        },
+        {
+            "Advert Title": "Bureaux276m²àvendreprocherocadeàBruges",
+            "Advert price": "705 000€",
+            "Advert surface": "276 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-bruges-33520,2221364,A,offre.html",
+            "City": "Bruges",
+            "Postal Code": "33520"
+        },
+        {
+            "Advert Title": "Entrepôtde695m²àvendreaxepassantMérignac",
+            "Advert price": "792 750€",
+            "Advert surface": "695 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-entrepot-695m2-merignac,2221212,A,offre.html",
+            "City": null,
+            "Postal Code": null
+        },
+        {
+            "Advert Title": "Entrepôtde340m²àvendreàSaintJeand'Illac",
+            "Advert price": "472 500€",
+            "Advert surface": "340 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-entrepot-340m2-saint-jean-illac,2221211,A,offre.html",
+            "City": null,
+            "Postal Code": null
+        },
+        {
             "Advert Title": "Vendlocalcommercial39m²àBordeauxTroisConils",
             "Advert price": "158 700€",
-            "Advert surface": "39 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bordeaux-local-commercial-trois-conils,2220776,A,offre.html"
+            "Advert surface": "52 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bordeaux-local-commercial-trois-conils,2220776,A,offre.html",
+            "City": null,
+            "Postal Code": null
         },
         {
             "Advert Title": "Venteimmeublesderapport235m²BordeauxVictoire",
             "Advert price": "1 100 000€",
             "Advert surface": "235 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-immeubles-de-rapport-proche-victoire-bordeaux,2220665,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-immeubles-de-rapport-proche-victoire-bordeaux,2220665,A,offre.html",
+            "City": null,
+            "Postal Code": null
+        }
+    ],
+    "Bureaux, Coworking": [
+        {
+            "Advert Title": "Bureauxde97m²àvendreàBordeauxPeyBerland",
+            "Advert price": "535 000€",
+            "Advert surface": "97 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-97m2-pey-berland-bordeaux,2223786,A,offre.html",
+            "City": null,
+            "Postal Code": null
         },
         {
-            "Advert Title": "Ventelocalcommercial260m²àGujan-Mestras",
-            "Advert price": "840 000€",
-            "Advert surface": "260 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-commercial-bureau-gujan-mestras-33470,2220571,A,offre.html"
+            "Advert Title": "Ventebureaux283m²R+1àBordeauxPalaisCongrés",
+            "Advert price": "623 920€",
+            "Advert surface": "283 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-283m2-bordeaux-33300,2223699,A,offre.html",
+            "City": "Bordeaux",
+            "Postal Code": "33300"
         },
         {
-            "Advert Title": "Murscommerciauxlibres480m²àvendreàBordeaux",
-            "Advert price": "1 785 000€",
-            "Advert surface": "480 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bordeaux-murs-commerciaux-libres-480m2,2177919,A,offre.html"
+            "Advert Title": "BureauxàvendreàBrugesAvenuedeTerrefort",
+            "Advert price": "1 194 522€",
+            "Advert surface": "406 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-bruges-33520,2222235,A,offre.html",
+            "City": "Bruges",
+            "Postal Code": "33520"
         },
         {
-            "Advert Title": "Ventelocalcommercial200m²àBordeauxChartrons",
-            "Advert price": "900 000€",
-            "Advert surface": "200 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-commercial-200m2-bordeaux-33300,2220260,A,offre.html"
+            "Advert Title": "Bureauxde120m²àvendreàBordeauxSaintPaul",
+            "Advert price": "703 177€",
+            "Advert surface": "120 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-bordeaux,2222225,A,offre.html",
+            "City": null,
+            "Postal Code": null
         },
         {
-            "Advert Title": "Ventebureaux de109m²àLaTeste-de-Buch",
-            "Advert price": "351 979€",
-            "Advert surface": "109 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-la-teste-de-buch-33260,2220210,A,offre.html"
-        },
-        {
-            "Advert Title": "LOCALd'activitéàvendre",
-            "Advert price": "801 631€",
-            "Advert surface": "499 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-local-activite-vendre-artigues-pres-bordeaux-gironde-33,2220201,A,offre.html"
+            "Advert Title": "Bureaux276m²àvendreprocherocadeàBruges",
+            "Advert price": "705 000€",
+            "Advert surface": "276 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-bruges-33520,2221364,A,offre.html",
+            "City": "Bruges",
+            "Postal Code": "33520"
         },
         {
             "Advert Title": "bureauxàvendre",
             "Advert price": "413 800€",
             "Advert surface": "191 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-artigues-pres-bordeaux-gironde-33,2220200,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-artigues-pres-bordeaux-gironde-33,2220200,A,offre.html",
+            "City": null,
+            "Postal Code": "33"
         },
         {
             "Advert Title": "bureauxàvendre",
             "Advert price": "389 150€",
             "Advert surface": "187 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-vendre-artigues-pres-bordeaux-gironde-33,2220199,A,offre.html"
-        },
-        {
-            "Advert Title": "Local499m²àvendreàArtiguespresBordeaux",
-            "Advert price": "801 631€",
-            "Advert surface": "499 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-activite-artigues-pres-bordeaux-33,2220196,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-vendre-artigues-pres-bordeaux-gironde-33,2220199,A,offre.html",
+            "City": null,
+            "Postal Code": "33"
         },
         {
             "Advert Title": "Bureaux191m²R+1àvendreArtiguespresBordeaux",
             "Advert price": "413 800€",
             "Advert surface": "191 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-artigues-pres-bordeaux-33,2220195,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-artigues-pres-bordeaux-33,2220195,A,offre.html",
+            "City": "Bordeaux",
+            "Postal Code": "33"
         },
         {
             "Advert Title": "Bureaux187m²R+2àvendreArtiguesprèsBordeaux",
             "Advert price": "389 150€",
             "Advert surface": "187 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-artigues-pres-bordeaux-33,2220194,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-artigues-pres-bordeaux-33,2220194,A,offre.html",
+            "City": "Bordeaux",
+            "Postal Code": "33"
         },
         {
             "Advert Title": "bureauxàVENDRE",
             "Advert price": "389 150€",
             "Advert surface": "187 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-artigues-pres-bordeaux-gironde-33,2220192,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-artigues-pres-bordeaux-gironde-33,2220192,A,offre.html",
+            "City": null,
+            "Postal Code": "33"
         },
         {
             "Advert Title": "bureauxàVENDRE",
             "Advert price": "413 800€",
             "Advert surface": "191 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-vendre-artigues-pres-bordeaux-gironde-33,2220191,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-vendre-artigues-pres-bordeaux-gironde-33,2220191,A,offre.html",
+            "City": null,
+            "Postal Code": "33"
         },
-        {
-            "Advert Title": "LOCALd'activitéàVENDRE",
-            "Advert price": "801 631€",
-            "Advert surface": "499 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-activite-vendre-artigues-pres-bordeaux-gironde-33,2220190,A,offre.html"
-        },
-        {
-            "Advert Title": "LOCALcommercialàVENDRE",
-            "Advert price": "140 000€",
-            "Advert surface": "137 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-local-commercial-vendre-bordeaux,2220189,A,offre.html"
-        },
-        {
-            "Advert Title": "Ventemurscommerciaux140m²auBassind'Arcachon",
-            "Advert price": "530 000€",
-            "Advert surface": "140 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-murs-commerciaux-bassin-darcachon-ares-33740-centre-ville,2220036,A,offre.html"
-        },
-        {
-            "Advert Title": "Localcommercialde200m²àvendreàTalence",
-            "Advert price": "291 600€",
-            "Advert surface": "200 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-talence-local-commercial-200m2-33400,2219972,A,offre.html"
-        },
-        {
-            "Advert Title": "Ventemursdelocaloccupé",
-            "Advert price": "651 000€",
-            "Advert surface": null,
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-de-local-occupe-bordeaux,2219739,A,offre.html"
-        },
-        {
-            "Advert Title": "Localcommercial52m²àvendrePessachypercentre",
-            "Advert price": "243 800€",
-            "Advert surface": "52 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-pessac-local-commercial-52m2-33600,2219468,A,offre.html"
-        },
-        {
-            "Advert Title": "Locald'activitéde521m²àvendreàSalleboeuf",
-            "Advert price": "573 300€",
-            "Advert surface": "521 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-local-activite-521m2-salleboeuf-33370,2219231,A,offre.html"
-        },
-        {
-            "Advert Title": "Locald'activitéde387m²àvendreàSalleboeuf",
-            "Advert price": "551 865€",
-            "Advert surface": "387 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-local-activite-387m2-salleboeuf-33370,2219230,A,offre.html"
-        },
-        {
-            "Advert Title": "Locald'activitéde362m²àvendreàSalleboeuf",
-            "Advert price": "430 900€",
-            "Advert surface": "362 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-local-activite-362m2-salleboeuf-33370,2219229,A,offre.html"
-        },
-        {
-            "Advert Title": "Locald'activitéde521m²àvendreàSalleboeuf",
-            "Advert price": "595 800€",
-            "Advert surface": "521 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-activite-521m2-salleboeuf-33370,2219228,A,offre.html"
-        }
-    ],
-    "Bureaux, Coworking": [
         {
             "Advert Title": "BureauxVEFAàvendreBordeauxpontChabanDelmas",
             "Advert price": "1 150 416€",
             "Advert surface": "334 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-bordeaux,2219090,A,offre.html"
-        },
-        {
-            "Advert Title": "Bureaux276m²R+1àvendreprocherocadeàBruges",
-            "Advert price": "705 000€",
-            "Advert surface": "276 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-bruges-33520,2218743,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-bordeaux,2219090,A,offre.html",
+            "City": null,
+            "Postal Code": null
         },
         {
             "Advert Title": "BureauxRT2012àvendreTressessortien°24",
             "Advert price": "883 050€",
             "Advert surface": "395 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-tresses-33370,2218589,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-tresses-33370,2218589,A,offre.html",
+            "City": "Tresses",
+            "Postal Code": "33370"
         },
         {
             "Advert Title": "Ventebureaux633m²BoulevardsBordeauxCaudéran",
             "Advert price": "1 300 000€",
             "Advert surface": "633 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-boulevards-bordeaux-33000,2218132,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-boulevards-bordeaux-33000,2218132,A,offre.html",
+            "City": "Bordeaux",
+            "Postal Code": "33000"
+        },
+        {
+            "Advert Title": "Ventebureaux100m²proximitérocadeàMérignac",
+            "Advert price": "255 600€",
+            "Advert surface": "100 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-proximite-rocade-merignac-33700,2217907,A,offre.html",
+            "City": "Merignac",
+            "Postal Code": "33700"
         },
         {
             "Advert Title": "bureauxàvendre",
             "Advert price": "406 500€",
             "Advert surface": "225 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-vendre-carbon-blanc-33560,2217705,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-vendre-carbon-blanc-33560,2217705,A,offre.html",
+            "City": null,
+            "Postal Code": "33560"
         },
         {
             "Advert Title": "bureauxàvendre",
             "Advert price": "360 600€",
             "Advert surface": "198 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-carbon-blanc-33560,2217704,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-carbon-blanc-33560,2217704,A,offre.html",
+            "City": null,
+            "Postal Code": "33560"
         },
         {
             "Advert Title": "bureauxàvendre",
-            "Advert price": "256 800€",
+            "Advert price": "250 000€",
             "Advert surface": "136 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-vendre-carbon-blanc-33560,2217703,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-vendre-carbon-blanc-33560,2217703,A,offre.html",
+            "City": null,
+            "Postal Code": "33560"
         },
         {
             "Advert Title": "bureauxàvendre",
             "Advert price": "235 000€",
             "Advert surface": "78 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-vendre-carbon-blanc-33560,2217702,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-vendre-carbon-blanc-33560,2217702,A,offre.html",
+            "City": null,
+            "Postal Code": "33560"
         },
         {
             "Advert Title": "Bureaux225m²R+1àvendreàCarbon-Blanc",
             "Advert price": "406 500€",
             "Advert surface": "225 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-carbon-blanc-33560,2217698,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-carbon-blanc-33560,2217698,A,offre.html",
+            "City": null,
+            "Postal Code": "33560"
         },
         {
             "Advert Title": "Bureaux136m²R+1àvendreàCarbon-Blanc",
-            "Advert price": "256 800€",
+            "Advert price": "250 000€",
             "Advert surface": "136 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-carbon-blanc-33560,2217697,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-carbon-blanc-33560,2217697,A,offre.html",
+            "City": null,
+            "Postal Code": "33560"
         },
         {
             "Advert Title": "Bureaux198m²R+1àvendreàCarbon-Blanc",
             "Advert price": "360 600€",
             "Advert surface": "198 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-carbon-blanc-33560,2217696,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-carbon-blanc-33560,2217696,A,offre.html",
+            "City": null,
+            "Postal Code": "33560"
         },
         {
             "Advert Title": "Bureaux78m²R+1àvendreàCarbon-Blanc",
             "Advert price": "235 000€",
             "Advert surface": "78 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-carbon-blanc-33560,2217695,A,offre.html"
-        },
-        {
-            "Advert Title": "bureauxàVENDRE",
-            "Advert price": "360 600€",
-            "Advert surface": "198 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-carbon-blanc-33560,2217694,A,offre.html"
-        },
-        {
-            "Advert Title": "bureauxàVENDRE",
-            "Advert price": "256 800€",
-            "Advert surface": "136 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-carbon-blanc-33560,2217693,A,offre.html"
-        },
-        {
-            "Advert Title": "BureauxàvendreCARBON-BLANC",
-            "Advert price": "235 000€",
-            "Advert surface": "78 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-carbon-blanc-33560,2217692,A,offre.html"
-        },
-        {
-            "Advert Title": "bureauxàVENDRE",
-            "Advert price": "406 500€",
-            "Advert surface": "225 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-carbon-blanc-33560,2217691,A,offre.html"
-        },
-        {
-            "Advert Title": "Ventemursprofessionnels64m²àBordeauxGambetta",
-            "Advert price": "371 000€",
-            "Advert surface": "64 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-professionnels-64m2-bordeaux-gambetta,2215926,A,offre.html"
-        },
-        {
-            "Advert Title": "Ventebureauxde62m²àBordeauxprocheGambetta",
-            "Advert price": "268 000€",
-            "Advert surface": "62 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-62m2-bordeaux-proche-gambetta,2215923,A,offre.html"
-        },
-        {
-            "Advert Title": "bureauxàvendre",
-            "Advert price": "164 200€",
-            "Advert surface": "86 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-audenge-33980,2211800,A,offre.html"
-        },
-        {
-            "Advert Title": "bureauxàvendre",
-            "Advert price": "1 112 520€",
-            "Advert surface": "584 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-vendre-audenge-33980,2211798,A,offre.html"
-        },
-        {
-            "Advert Title": "Ventebureauxde144m²àTresses",
-            "Advert price": "262 732€",
-            "Advert surface": "144 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-144m2-tresses-33370,2211518,A,offre.html"
-        },
-        {
-            "Advert Title": "Ventebureauxde148m²àTresses",
-            "Advert price": "268 571€",
-            "Advert surface": "148 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-148m2-tresses-33370,2211516,A,offre.html"
-        },
-        {
-            "Advert Title": "Ventebureauxde121m²àTresses",
-            "Advert price": "265 989€",
-            "Advert surface": "121 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-121m2-tresses-33370,2211515,A,offre.html"
-        },
-        {
-            "Advert Title": "Bureauxde86m²àvendreenZAàAudenge",
-            "Advert price": "164 200€",
-            "Advert surface": "86 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-86m2-audenge-33980,2211259,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-carbon-blanc-33560,2217695,A,offre.html",
+            "City": null,
+            "Postal Code": "33560"
         }
     ]
 }

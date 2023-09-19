@@ -1,288 +1,390 @@
 {
     "Locaux, Entrepôts, Terrains": [
         {
+            "Advert Title": "Ventebureauxde360m²avec12parkingsàAnglet",
+            "Advert price": "1 293 000€",
+            "Advert surface": "360 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-anglet-avec-12-parkings-64600-bab-et-alentours,2224340,A,offre.html",
+            "City": null,
+            "Postal Code": null
+        },
+        {
+            "Advert Title": "Ventemurslibresde80m²àBiarritzClémenceau",
+            "Advert price": "997 000€",
+            "Advert surface": "80 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-libres-biarritz-64200-bab-et-alentours,2222686,A,offre.html",
+            "City": null,
+            "Postal Code": null
+        },
+        {
+            "Advert Title": "Cèdebaillocal95m²àAngletquartierdynamique",
+            "Advert price": "67 200€",
+            "Advert surface": "95 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-anglet-local-95m2-64600,2222576,A,offre.html",
+            "City": null,
+            "Postal Code": null
+        },
+        {
+            "Advert Title": "Ventelocalcommercialde200m²enzadeSouloumou",
+            "Advert price": "290 000€",
+            "Advert surface": "200 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-commercial-200m2-zone-artisanale-soumoulou-64420,2222529,A,offre.html",
+            "City": "Soumoulou",
+            "Postal Code": "64420"
+        },
+        {
+            "Advert Title": "Ventelocalcommercial142m²àAhetze",
+            "Advert price": "370 000€",
+            "Advert surface": "142 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-commercial-ahetze-64210,2222393,A,offre.html",
+            "City": "Ahetze",
+            "Postal Code": "64210"
+        },
+        {
+            "Advert Title": "Ventelocalcommercial173m²àAhetze",
+            "Advert price": "432 500€",
+            "Advert surface": "173 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-commercial-ahetze-64210,2222392,A,offre.html",
+            "City": "Ahetze",
+            "Postal Code": "64210"
+        },
+        {
+            "Advert Title": "Ventebureaux94m²RDCauBoucau",
+            "Advert price": "196 000€",
+            "Advert surface": "94 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-boucau-64340,2222391,A,offre.html",
+            "City": "Boucau",
+            "Postal Code": "64340"
+        },
+        {
+            "Advert Title": "Bureauxetdépôtde596m²àvendreàAscain",
+            "Advert price": "1 433 250€",
+            "Advert surface": "596 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-ascain-bureaux-depot-596m2-64310,2222326,A,offre.html",
+            "City": null,
+            "Postal Code": null
+        },
+        {
+            "Advert Title": "Ventelocalcommercial200m²LescarQuartierLibre",
+            "Advert price": "145 000€",
+            "Advert surface": "200 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-dans-galerie-marchande-premium-lescar-quartier-libre-64230,2213651,A,offre.html",
+            "City": null,
+            "Postal Code": "64230"
+        },
+        {
+            "Advert Title": "Ventemurscommerciauxempln°1àBayonne",
+            "Advert price": "1 250 000€",
+            "Advert surface": "231 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-locaux-brasserie-bayonne-64100,2222016,A,offre.html",
+            "City": "Bayonne",
+            "Postal Code": "64100"
+        },
+        {
+            "Advert Title": "Entrepôtde500m²+parkingàvendreàHasparren",
+            "Advert price": "903 000€",
+            "Advert surface": "500 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-entrepot-500m2-hasparren,2221642,A,offre.html",
+            "City": null,
+            "Postal Code": null
+        },
+        {
+            "Advert Title": "Immeublede470m²àvendreàBayonne",
+            "Advert price": "530 000€",
+            "Advert surface": "470 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-immeuble-470m2-bayonne,2221641,A,offre.html",
+            "City": null,
+            "Postal Code": null
+        },
+        {
+            "Advert Title": "Vendmurscommerciaux700m²trèsbienplacésLons",
+            "Advert price": "1 219 000€",
+            "Advert surface": "700 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-tres-bien-places-sur-axe-lons-64140,2221385,A,offre.html",
+            "City": "Lons",
+            "Postal Code": "64140"
+        },
+        {
+            "Advert Title": "Ventelocalcommercialde130m²àSaliesdeBéarn",
+            "Advert price": "60 000€",
+            "Advert surface": "130 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-boutique-130m2-en-coeur-de-ville-thermale-salies-de-bearn-64270,2221068,A,offre.html",
+            "City": "Salies de Bearn",
+            "Postal Code": "64270"
+        },
+        {
             "Advert Title": "Ventebureauxcalmesetlumineuxde95m²àAnglet",
             "Advert price": "319 930€",
             "Advert surface": "95 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-calme-et-lumineux-95m2-anglet-64600,2220827,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-calme-et-lumineux-95m2-anglet-64600,2220827,A,offre.html",
+            "City": "Anglet",
+            "Postal Code": "64600"
         },
         {
             "Advert Title": "Avendrelocalrénové59m²prochemeràBiarritz",
             "Advert price": "451 500€",
             "Advert surface": "59 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-local-professionnel-biarritz-64200,2214134,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-local-professionnel-biarritz-64200,2214134,A,offre.html",
+            "City": "Biarritz",
+            "Postal Code": "64200"
         },
         {
             "Advert Title": "Ventelocal76m²excellentvisibilitéàPau",
             "Advert price": "88 900€",
             "Advert surface": "76 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-local-commercial-pau-64000,2218872,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-local-commercial-pau-64000,2218872,A,offre.html",
+            "City": "Pau",
+            "Postal Code": "64000"
         },
         {
             "Advert Title": "Ventemurscommerciaux1000m²àMonein",
             "Advert price": "1 500 000€",
             "Advert surface": "1 000 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-commerciaux-bonne-rentabilite-monein-64360,2218826,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-commerciaux-bonne-rentabilite-monein-64360,2218826,A,offre.html",
+            "City": "Monein",
+            "Postal Code": "64360"
         },
         {
             "Advert Title": "Ventemurscommerciaux480m²aucentredePau",
             "Advert price": "676 000€",
             "Advert surface": "480 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-pau-64000,2218824,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-pau-64000,2218824,A,offre.html",
+            "City": "Pau",
+            "Postal Code": "64000"
+        },
+        {
+            "Advert Title": "Entrepôt7741m²àvendreàPauNordsortien°9.1",
+            "Advert price": "3 360 000€",
+            "Advert surface": "7 741 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-entrepot-pau-nord-64000,2218739,A,offre.html",
+            "City": null,
+            "Postal Code": "64000"
         },
         {
             "Advert Title": "Ventemurscentremédical7cabinetsàPau",
             "Advert price": "546 000€",
             "Advert surface": "660 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-centre-medical-pau-64000,2218345,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-centre-medical-pau-64000,2218345,A,offre.html",
+            "City": "Pau",
+            "Postal Code": "64000"
         },
         {
             "Advert Title": "Avendrelocaux234m²pouractivitémédicaleàPau",
             "Advert price": "281 958€",
             "Advert surface": "234 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-locaux-pour-activite-medicale-pau-64000,2218092,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-locaux-pour-activite-medicale-pau-64000,2218092,A,offre.html",
+            "City": "Pau",
+            "Postal Code": "64000"
         },
         {
             "Advert Title": "Avendreplateau176m²pouractivitémédicalePau",
             "Advert price": "212 112€",
             "Advert surface": "176 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-plateau-pau-64000,2218091,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-plateau-pau-64000,2218091,A,offre.html",
+            "City": "Pau",
+            "Postal Code": "64000"
         },
         {
             "Advert Title": "Ventelocalcommercial169m²aucentred'Oloron",
             "Advert price": "65 000€",
             "Advert surface": "169 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-boutique-oloron-sainte-marie-64400,2217873,A,offre.html"
-        },
-        {
-            "Advert Title": "Murscommerciauxde194m²àvendreàPauempln°1",
-            "Advert price": "449 400€",
-            "Advert surface": "194 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-194m2-pau-64000,2217650,A,offre.html"
-        },
-        {
-            "Advert Title": "Vendbâtimentd'activitésde410m²enagglodePau",
-            "Advert price": "342 400€",
-            "Advert surface": "410 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-batiment-activites-agglomeration-de-pau,2217416,A,offre.html"
-        },
-        {
-            "Advert Title": "Avendreplateaudebureaux219m²R+2àBizanos",
-            "Advert price": "441 860€",
-            "Advert surface": "219 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-plateau-proche-du-centre-ville-de-pau,2217165,A,offre.html"
-        },
-        {
-            "Advert Title": "Avendremurscommerciauxde30m²àBayonnecentre",
-            "Advert price": "122 640€",
-            "Advert surface": "30 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-commerciaux-30m2-bayonne-centre-64100,2216880,A,offre.html"
-        },
-        {
-            "Advert Title": "VentelocauxcommerciauxsuraxepassantàLons",
-            "Advert price": "266 760€",
-            "Advert surface": "177 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-opportunite-sur-axe-passant-lons-64140,2216679,A,offre.html"
-        },
-        {
-            "Advert Title": "VenteensembleimmobiliersuraxepassantàLons",
-            "Advert price": "270 000€",
-            "Advert surface": "447 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-ensemble-immobilier-lons-64140,2216678,A,offre.html"
-        },
-        {
-            "Advert Title": "BâtimentcommercialàvendrebellevisibilitéLons",
-            "Advert price": "1 226 420€",
-            "Advert surface": "1 100 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-batiment-commercial-lons-64140,2216676,A,offre.html"
-        },
-        {
-            "Advert Title": "Ventebureaux271m²R+2zonetertiairedePau",
-            "Advert price": "334 864€",
-            "Advert surface": "225 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureau-pau-64000,2216672,A,offre.html"
-        },
-        {
-            "Advert Title": "Venteplateauxdebureaux273m²R+1àPauNord",
-            "Advert price": "238 277€",
-            "Advert surface": "224 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-plateaux-de-bureaux-pau-nord-64000,2216671,A,offre.html"
-        },
-        {
-            "Advert Title": "Vendbureauxlocauxactivité596m²StJeandeLuz",
-            "Advert price": "1 378 000€",
-            "Advert surface": "596 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-ensemble-de-bureaux-et-locaux-activite-saint-jean-de-luz-64500,2216648,A,offre.html"
-        },
-        {
-            "Advert Title": "Ventelocalcommercial89m²centre-villedePau",
-            "Advert price": "143 100€",
-            "Advert surface": null,
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-opportunite-investisseur-proche-clemenceau-pau-64000,2216670,A,offre.html"
-        },
-        {
-            "Advert Title": "Ventelocalcommercialde1153m²àHasparren",
-            "Advert price": "945 000€",
-            "Advert surface": "1 153 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-commercial-1153m2-hasparren-64240,2215807,A,offre.html"
-        },
-        {
-            "Advert Title": "Vendmurslocalprofessionnelde65m²àBiarritz",
-            "Advert price": "472 000€",
-            "Advert surface": "65 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-local-professionnel-prof-liberale-biarritz-64200,2215712,A,offre.html"
-        },
-        {
-            "Advert Title": "Ventemursrestaurantlogement585m²proxBayonne",
-            "Advert price": "1 260 000€",
-            "Advert surface": "585 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-restaurant-bar-logement-bayonne-64100,2215644,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-boutique-oloron-sainte-marie-64400,2217873,A,offre.html",
+            "City": "Oloron Sainte Marie",
+            "Postal Code": "64400"
         }
     ],
     "Bureaux, Coworking": [
         {
+            "Advert Title": "Ventebureaux94m²RDCauBoucau",
+            "Advert price": "196 000€",
+            "Advert surface": "94 m²",
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-boucau-64340,2222391,A,offre.html",
+            "City": "Boucau",
+            "Postal Code": "64340"
+        },
+        {
             "Advert Title": "Ventebureauxcalmesetlumineuxde95m²àAnglet",
             "Advert price": "319 930€",
             "Advert surface": "95 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-calme-et-lumineux-95m2-anglet-64600,2220827,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-calme-et-lumineux-95m2-anglet-64600,2220827,A,offre.html",
+            "City": "Anglet",
+            "Postal Code": "64600"
         },
         {
             "Advert Title": "Avendrelocaux234m²pouractivitémédicaleàPau",
             "Advert price": "281 958€",
             "Advert surface": "234 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-locaux-pour-activite-medicale-pau-64000,2218092,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-locaux-pour-activite-medicale-pau-64000,2218092,A,offre.html",
+            "City": "Pau",
+            "Postal Code": "64000"
         },
         {
             "Advert Title": "Avendreplateau176m²pouractivitémédicalePau",
             "Advert price": "212 112€",
             "Advert surface": "176 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-plateau-pau-64000,2218091,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-plateau-pau-64000,2218091,A,offre.html",
+            "City": "Pau",
+            "Postal Code": "64000"
         },
         {
             "Advert Title": "Avendreplateaudebureaux219m²R+2àBizanos",
             "Advert price": "441 860€",
             "Advert surface": "219 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-plateau-proche-du-centre-ville-de-pau,2217165,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-plateau-proche-du-centre-ville-de-pau,2217165,A,offre.html",
+            "City": null,
+            "Postal Code": null
         },
         {
             "Advert Title": "Ventebureaux271m²R+2zonetertiairedePau",
             "Advert price": "334 864€",
             "Advert surface": "225 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureau-pau-64000,2216672,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureau-pau-64000,2216672,A,offre.html",
+            "City": "Pau",
+            "Postal Code": "64000"
         },
         {
             "Advert Title": "Venteplateauxdebureaux273m²R+1àPauNord",
             "Advert price": "238 277€",
             "Advert surface": "224 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-plateaux-de-bureaux-pau-nord-64000,2216671,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-plateaux-de-bureaux-pau-nord-64000,2216671,A,offre.html",
+            "City": null,
+            "Postal Code": "64000"
         },
         {
             "Advert Title": "Àvendre bureaux113m²R+2axetrèspassantàPau",
             "Advert price": "129 000€",
             "Advert surface": "114 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-pau-64000,2214340,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-pau-64000,2214340,A,offre.html",
+            "City": "Pau",
+            "Postal Code": "64000"
         },
         {
             "Advert Title": "Bureaux165m²lumineuxàvendresurPau",
             "Advert price": "332 596€",
             "Advert surface": "165 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-pau-64000,2212186,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-pau-64000,2212186,A,offre.html",
+            "City": "Pau",
+            "Postal Code": "64000"
         },
         {
             "Advert Title": "Ventebureaux140m²lumineuxàSerres-Castet",
             "Advert price": "284 043€",
             "Advert surface": "140 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-proche-de-tous-les-transports-serres-castet-64121,2212185,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-proche-de-tous-les-transports-serres-castet-64121,2212185,A,offre.html",
+            "City": "Serres Castet",
+            "Postal Code": "64121"
         },
         {
             "Advert Title": "Avendrebureauxde193m²procheaéroportdePau",
             "Advert price": "406 383€",
             "Advert surface": "194 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-pau-64000,2212184,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-pau-64000,2212184,A,offre.html",
+            "City": "Pau",
+            "Postal Code": "64000"
         },
         {
             "Advert Title": "Ventebureaux68m²RDClumineuxàSerres-Castet",
             "Advert price": "141 000€",
             "Advert surface": "68 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-de-68-m2-lumineux-serres-castet-64121,2212183,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-de-68-m2-lumineux-serres-castet-64121,2212183,A,offre.html",
+            "City": "Serres Castet",
+            "Postal Code": "64121"
         },
         {
             "Advert Title": "Ventebureaux193m²avec2terrassesSerres-Castet",
             "Advert price": "406 383€",
             "Advert surface": "194 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-serres-castet-64121,2212182,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-serres-castet-64121,2212182,A,offre.html",
+            "City": "Serres Castet",
+            "Postal Code": "64121"
         },
         {
             "Advert Title": "VENTE-REF:7049FD",
             "Advert price": "755 244€",
             "Advert surface": "330 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-anglet-bureaux-ref-7049fd-64600,2211072,A,offre.html"
-        },
-        {
-            "Advert Title": "Ventebureaux120m²R+1àStJeandeLuzZAJalday",
-            "Advert price": "240 750€",
-            "Advert surface": "98 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-en-zone-activite-saint-jean-de-luz-64500,2208110,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-anglet-bureaux-ref-7049fd-64600,2211072,A,offre.html",
+            "City": null,
+            "Postal Code": null
         },
         {
             "Advert Title": "Ventebureau40m²au2èmeétageàBiarritzKleber",
             "Advert price": "242 000€",
             "Advert surface": "40 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-biarritz-bureau-40m2-64200,2200560,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-biarritz-bureau-40m2-64200,2200560,A,offre.html",
+            "City": null,
+            "Postal Code": null
         },
         {
             "Advert Title": "Bureauxdivisiblesde2600m²àvendreàPau",
             "Advert price": "7 280 000€",
             "Advert surface": "2 600 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-pau-bureaux-2600m2-64000,2197307,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-pau-bureaux-2600m2-64000,2197307,A,offre.html",
+            "City": null,
+            "Postal Code": null
         },
         {
             "Advert Title": "Vendmursprogrammepôlemédical299.5m²àBoucau",
             "Advert price": "898 500€",
             "Advert surface": "299 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-programme-pole-medical-2995m2-boucau-64340,2194136,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-programme-pole-medical-2995m2-boucau-64340,2194136,A,offre.html",
+            "City": "Boucau",
+            "Postal Code": "64340"
         },
         {
             "Advert Title": "Vendmursprogrammepôlemédical294m²RDCBoucau",
             "Advert price": "940 800€",
             "Advert surface": "294 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-294m2-rdc-boucau-64340,2194135,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-294m2-rdc-boucau-64340,2194135,A,offre.html",
+            "City": "Boucau",
+            "Postal Code": "64340"
         },
         {
             "Advert Title": "Vendmursprogrammepôlemédical266.5m²àBoucau",
             "Advert price": "879 450€",
             "Advert surface": "266 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-266m2-de-boucau-64340,2194134,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-266m2-de-boucau-64340,2194134,A,offre.html",
+            "City": "Boucau",
+            "Postal Code": "64340"
         },
         {
             "Advert Title": "Vendmursprogrammepôlemédical251.2m²àBoucau",
             "Advert price": "828 960€",
             "Advert surface": "251 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-2512m2-boucau-64340,2194133,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-2512m2-boucau-64340,2194133,A,offre.html",
+            "City": "Boucau",
+            "Postal Code": "64340"
         },
         {
             "Advert Title": "Vendmursprogrammepôlemédical225.9m²àBoucau",
             "Advert price": "722 880€",
             "Advert surface": "225 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-programme-pole-medical-225m2-boucau-64340,2194132,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-programme-pole-medical-225m2-boucau-64340,2194132,A,offre.html",
+            "City": "Boucau",
+            "Postal Code": "64340"
         },
         {
             "Advert Title": "Vendmursprogrammepôlemédical225.9m²àBoucau",
             "Advert price": "677 700€",
             "Advert surface": "225 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-programme-pole-medical-225m2-boucau-64340,2194131,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-programme-pole-medical-225m2-boucau-64340,2194131,A,offre.html",
+            "City": "Boucau",
+            "Postal Code": "64340"
         },
         {
             "Advert Title": "Vendmursprogrammepôlemédical163.3m²auBoucau",
             "Advert price": "538 890€",
             "Advert surface": "163 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-163m2-boucau-64340,2194130,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-163m2-boucau-64340,2194130,A,offre.html",
+            "City": "Boucau",
+            "Postal Code": "64340"
         },
         {
             "Advert Title": "Vendmursprogrammepôlemédical163.3m²auBoucau",
             "Advert price": "486 900€",
             "Advert surface": "163 m²",
-            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-1633m2-boucau-64340,2194128,A,offre.html"
+            "Advert URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-1633m2-boucau-64340,2194128,A,offre.html",
+            "City": "Boucau",
+            "Postal Code": "64340"
         }
     ]
 }

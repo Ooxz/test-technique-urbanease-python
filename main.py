@@ -1,11 +1,12 @@
 import logging
 import os
+import re
 from bs4 import BeautifulSoup
 import requests
 import json
 import psycopg2
 from scrap.conf import config
-from scrap.database import insert_data_into_database 
+from scrap.database import insert_data_into_database
 
 # Specify the full path to the log file
 log_file_path = config['log_file_path']
@@ -18,13 +19,38 @@ if not os.path.exists(log_dir):
 # Configure logging with the specified log file path
 logging.basicConfig(filename=log_file_path, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Define the database connection information
+# Define the database connection information PostgreSQL
 conn = psycopg2.connect(
     host=config['db_host'],
     database=config['db_name'],
     user=config['db_user'],
     password=config['db_password']
 )
+
+city_mapping = {
+    "anglet": "Anglet",
+    "soumoulou": "Soumoulou",
+    "biarritz": "Biarritz",
+    "ahetze": "Ahetze",
+    "pau": "Pau",
+    "bayonne": "Bayonne",
+    "boucau": "Boucau",
+    "bearn": "Salies de Bearn",
+    "lons": "Lons",
+    "marie": "Oloron Sainte Marie",
+    "monein": "Monein",
+    "castet": "Serres Castet",
+    "hasparren": "Hasparren",
+    "libourne": "Libourne",
+    "bordeaux": "Bordeaux",
+    "bruges": "Bruges",
+    "merignac": "Merignac",
+    "illac": "Saint Jean Illac",
+    "lagrave": "Ambares et Lagrave",
+    "grande": "Sainte Foy la Grande",
+    "tresses": "Tresses"
+    # Add other city mappings as needed
+}
 
 # Function to scrape and save data
 def scrape_and_save(url):
@@ -37,7 +63,7 @@ def scrape_and_save(url):
         logging.info("Scraping page %d", page)  # Log the page being scraped
 
         html_text = requests.get(page_url).text
-        soup = BeautifulSoup(html_text, "lxml")
+        soup = BeautifulSoup(html_text, "html.parser")
         adverts = soup.find_all('div', class_='offers-list__item')
 
         for advert in adverts:
@@ -54,10 +80,19 @@ def scrape_and_save(url):
                         'Advert price': adverts_price_surface[0].text.strip(),
                         'Advert surface': None,
                         'Advert URL': f'https://www.cessionpme.com{adverts_url}',
+                        'City': None,  
+                        'Postal Code': None  
                     }
 
                     if len(adverts_price_surface) >= 2:
                         advert_data['Advert surface'] = adverts_price_surface[1].text.strip()
+
+                    # Use regular expressions to extract the city and postal code from the URL
+                    match = re.search(r'-([a-zA-Z]+)-(\d+),', adverts_url)
+                    if match:
+                        city_code = match.group(1).lower()  # Convert to lowercase for consistency
+                        advert_data['City'] = city_mapping.get(city_code, None)
+                        advert_data['Postal Code'] = match.group(2)
 
                     scraped_data.append(advert_data)
 
@@ -73,7 +108,7 @@ def generate_urls(base_url, output_folder, departments, categories, rubrique_imo
 
         for category in categories:
             # Generate the URL dynamically for each department and category
-            rubrique_imo = rubrique_imo_mapping.get((department, category), "")  # Default to "V" if not found
+            rubrique_imo = rubrique_imo_mapping.get((department, category), "")  # Default to "" if not found
             url = f"{base_url}&departement_imo={department}&secteur_activite_imo={category}&rubrique_imo={rubrique_imo}"
 
             # Log a message indicating the URL being scraped
@@ -113,7 +148,7 @@ def generate_urls(base_url, output_folder, departments, categories, rubrique_imo
 # Base URL without department and category
 base_url = "https://www.cessionpme.com/index.php?action=affichage&annonce=offre&moteur=OUI&type_moteur=imo&nature_imo=V&region_imo=2&commune_imo=0&multiple_lieu_imo&trap_imo&ou_imo&surfmin&et&immo_tri=prix&immo_tri=prix&surfmax&entre&entre_dab&et_dab&cwkg_rent_max&cwkg_places_min&motcle_imo"
 
-# List of departments and categories (93 for department 64 and 87 for department 33)
+# List of departments and categories (key from url 93 for department 64 and key from url 87 for department 33)
 departments = ['93', '87']  # Add more departments as needed
 categories = ['Locaux, Entrepôts, Terrains', 'Bureaux, Coworking']  # Add more categories as needed
 
